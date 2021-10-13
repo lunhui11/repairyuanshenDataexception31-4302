@@ -1,8 +1,9 @@
 # 修复原神数据异常31-4302
 替换原神安装目录下的\YuanShen_Data\Native\UserAssembly.dll文件来修复数据异常31-4302
 
-下载:https://github.com/heinu112/repairyuanshenDataexception31-4302/releases/download/main/31-4302.exe
+exe下载:https://github.com/heinu112/repairyuanshenDataexception31-4302/releases/download/main/31-4302.exe
 
+完整源代码下载：https://github.com/heinu112/repairyuanshenDataexception31-4302/releases/download/main/code.zip
 
 运行31-4302.exe即可
 
