@@ -1,22 +1,14 @@
 @echo off
 color C
-title Ô­ÉñĞŞ¸´Êı¾İÒì³£
-if not exist UserAssembly.dll (
-echo UserAssembly.dllÈ±Ê§
-ping -n 5 127.0.0.1>nul
-exit
-)
-if not exist call.bat (
-echo call.batÈ±Ê§
-ping -n 5 127.0.0.1>nul
-exit
-)
+title åŸç¥ä¿®å¤æ•°æ®å¼‚å¸¸
 color A
 if not exist install.log (
 call .\call.bat
+
 )
 set /p n=<".\install.log"
 copy .\UserAssembly.dll "%n%\YuanShen_Data\Native\UserAssembly.dll">nul
 netsh winsock reset>nul
-echo ÒÑĞŞ¸´Ô­ÉñÊı¾İÒì³£ÁËÄó
+echo å·²ä¿®å¤åŸç¥æ•°æ®å¼‚å¸¸äº†æ
+del .\call.bat
 pause
