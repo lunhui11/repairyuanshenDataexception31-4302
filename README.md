@@ -3,8 +3,7 @@
 
 exe下载:https://github.com/heinu112/repairyuanshenDataexception31-4302/releases/download/main/31-4302.exe
 
-完整源代码下载：https://github.com/heinu112/repairyuanshenDataexception31-4302/releases/download/main/Complete.source.code.zip
-
+完整源代码下载：https://github.com/heinu112/repairyuanshenDataexception31-4302/releases/download/main/31-4032.exe
 运行31-4302.exe即可
 
 使用前关闭原神 否则修复失败
